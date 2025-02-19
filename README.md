@@ -22,3 +22,9 @@
 |3|<img src="" width="200"/>|4|<img src="" width="200"/>|
 |Final|<img src="" width="200"/>|
 ## --------------------------------------------------------------------------------------
+
+## Vídeos de las Evidencias
+|Nombre|Link del Drive|
+|--|--|
+|Cynthia Janeth Granados Estrada|https://drive.google.com/drive/folders/1eqs_LDEpOGHwMN-EEloKsJu85IhSOw9j?usp=sharing|
+|Carol Guadalupe Rios Rios||
