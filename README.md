@@ -3,8 +3,8 @@
 # Aplicaciones de IoT - Unidad II
 |Alumnas|Grupo|
 |--|--|
-|Rios Rios Carol Guadalupe|GDS0651|
-|Granados Estrada Cynthia Janeth|GDS0651|
+|Cynthia Janeth Granados Estrada|GDS0651|
+|Carol Guadalupe Rios Rios|GDS0651|
 ## --------------------------------------------------------------------------------------------------------
 
 ## NetAcad JavaScript Essentials 2 -- Cynthia Janeth Granados Estrada
