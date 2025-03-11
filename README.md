@@ -27,7 +27,8 @@
 |Nombre|Link del Drive|
 |--|--|
 |Cynthia Janeth Granados Estrada|https://drive.google.com/drive/folders/1eqs_LDEpOGHwMN-EEloKsJu85IhSOw9j?usp=sharing|
-|Carol Guadalupe Rios Rios||
+|Carol Guadalupe Rios Rios|https://drive.google.com/drive/folders/1HW-57mZxel4ZGHJr3LOsmqx1ISyfiSSl?usp=sharing|
+|Ambas||
 
 ## --------------------------------------------------------------------------------------
 ## Diagramas
