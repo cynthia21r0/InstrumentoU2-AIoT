@@ -26,7 +26,7 @@
 ## Vídeos de las Evidencias
 |Nombre|Link del Drive|
 |--|--|
-|Cynthia Janeth Granados Estrada|https://drive.google.com/drive/folders/1eqs_LDEpOGHwMN-EEloKsJu85IhSOw9j?usp=sharing|
+|Cynthia Janeth Granados Estrada|https://drive.google.com/drive/folders/1tl9VuVo27Bc1-h9jdDrKIiX5hk4NB5ss?usp=sharing|
 |Carol Guadalupe Rios Rios|https://drive.google.com/drive/folders/1HW-57mZxel4ZGHJr3LOsmqx1ISyfiSSl?usp=sharing|
 |Ambas||
 
