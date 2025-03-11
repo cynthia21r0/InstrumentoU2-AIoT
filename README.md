@@ -10,7 +10,7 @@
 ## NetAcad JavaScript Essentials 2 -- Cynthia Janeth Granados Estrada
 |Módulo|Resultado|Módulo|Resultado|
 |--|--|--|--|
-|1|<img src="https://github.com/user-attachments/assets/63bec98e-6ff7-4d34-b486-7704c915cd05" width="350"/>|2|<img src="https://github.com/user-attachments/assets/e2eda4b6-2f2e-4f6d-aa5d-8b2e1bf88f21" width="350"/>|
+|1|<img src="https://github.com/user-attachments/assets/63bec98e-6ff7-4d34-b486-7704c915cd05" width="350"/>|2|<img src="https://github.com/user-attachments/assets/e6f6c155-ad30-4e6b-8370-4f55e4907687" width="350"/>|
 |3|<img src="https://github.com/user-attachments/assets/fd0ddd18-1493-4721-aeb8-0761f0e25f48" width="350"/>|4|<img src="https://github.com/user-attachments/assets/22021dd4-88f9-4c17-9b04-e06b6945f216" width="350"/>|
 |Final|<img src="https://github.com/user-attachments/assets/984225d6-4785-433e-af99-c0658ceea26a" width="350"/>|
 ## --------------------------------------------------------------------------------------
@@ -18,7 +18,7 @@
 ## NetAcad JavaScript Essentials 2 -- Carol Guadalupe Rios Rios
 |Módulo|Resultado|Módulo|Resultado|
 |--|--|--|--|
-|1|<img src="https://github.com/user-attachments/assets/a8490639-ef6c-4f96-9cf9-5dd10175ce64" width="350"/>|2|<img src="![Imagen de WhatsApp 2025-03-10 a las 22 11 38_4e55d77b](https://github.com/user-attachments/assets/c4f2d226-de31-4716-87cb-64e6576a594f" width="350"/>|
+|1|<img src="https://github.com/user-attachments/assets/a8490639-ef6c-4f96-9cf9-5dd10175ce64" width="350"/>|2|<img src="https://github.com/user-attachments/assets/c4f2d226-de31-4716-87cb-64e6576a594f" width="350"/>|
 |3|<img src="https://github.com/user-attachments/assets/951918ae-f292-4bb9-9f28-9a5e1819be7b" width="350"/>|4|<img src="https://github.com/user-attachments/assets/6b2316db-ad6f-40dd-8178-24cb4f7bd312" width="350"/>|
 |Final|<img src="https://github.com/user-attachments/assets/25d0e31a-270a-4fa4-abeb-f1aa9e805069" width="350"/>|
 ## --------------------------------------------------------------------------------------
