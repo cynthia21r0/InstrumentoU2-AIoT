@@ -10,17 +10,17 @@
 ## NetAcad JavaScript Essentials 2 -- Cynthia Janeth Granados Estrada
 |Módulo|Resultado|Módulo|Resultado|
 |--|--|--|--|
-|1|<img src="https://github.com/user-attachments/assets/63bec98e-6ff7-4d34-b486-7704c915cd05" width="200"/>|2|<img src="https://github.com/user-attachments/assets/3c00d3f3-8dc0-4a32-9357-48f8ea58aa44" width="200"/>|
-|3|<img src="https://github.com/user-attachments/assets/fd0ddd18-1493-4721-aeb8-0761f0e25f48" width="200"/>|4|<img src="https://github.com/user-attachments/assets/22021dd4-88f9-4c17-9b04-e06b6945f216" width="200"/>|
-|Final|<img src="https://github.com/user-attachments/assets/984225d6-4785-433e-af99-c0658ceea26a" width="200"/>|
+|1|<img src="https://github.com/user-attachments/assets/63bec98e-6ff7-4d34-b486-7704c915cd05" width="350"/>|2|<img src="https://github.com/user-attachments/assets/3c00d3f3-8dc0-4a32-9357-48f8ea58aa44" width="350"/>|
+|3|<img src="https://github.com/user-attachments/assets/fd0ddd18-1493-4721-aeb8-0761f0e25f48" width="350"/>|4|<img src="https://github.com/user-attachments/assets/22021dd4-88f9-4c17-9b04-e06b6945f216" width="350"/>|
+|Final|<img src="https://github.com/user-attachments/assets/984225d6-4785-433e-af99-c0658ceea26a" width="350"/>|
 ## --------------------------------------------------------------------------------------
 
 ## NetAcad JavaScript Essentials 2 -- Carol Guadalupe Rios Rios
 |Módulo|Resultado|Módulo|Resultado|
 |--|--|--|--|
-|1|<img src="" width="200"/>|2|<img src="" width="200"/>|
-|3|<img src="" width="200"/>|4|<img src="" width="200"/>|
-|Final|<img src="" width="200"/>|
+|1|<img src="" width="350"/>|2|<img src="" width="350"/>|
+|3|<img src="" width="350"/>|4|<img src="" width="350"/>|
+|Final|<img src="" width="350"/>|
 ## --------------------------------------------------------------------------------------
 
 ## Vídeos de las Evidencias
