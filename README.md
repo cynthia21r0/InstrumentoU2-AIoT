@@ -30,7 +30,7 @@
 ## --------------------------------------------------------------------------------------
 
 ## Evidencias del examen
-|Nombre|Link del Drive|
+|Nombre|Imagen|
 |--|--|
 |Cynthia Janeth Granados Estrada|<img src="https://github.com/user-attachments/assets/49a4e87d-981e-4c23-8a19-d28c3a000d0f" width="350"/>|
 |Carol Guadalupe Rios Rios|<img src="https://github.com/user-attachments/assets/61511916-a806-4a53-97ee-223bc4858eac" width="350"/>
