@@ -29,7 +29,7 @@
 |Cynthia Janeth Granados Estrada|https://drive.google.com/drive/folders/1tl9VuVo27Bc1-h9jdDrKIiX5hk4NB5ss?usp=sharing|
 |Carol Guadalupe Rios Rios|https://drive.google.com/drive/folders/1HW-57mZxel4ZGHJr3LOsmqx1ISyfiSSl?usp=sharing|
 |Ambas|https://drive.google.com/drive/folders/1sEuDrb2Xvj7MbVpIZkGbf2d_5-IoLEum?usp=sharing|
-|Todos||Ambas|https://drive.google.com/drive/folders/1sEuDrb2Xvj7MbVpIZkGbf2d_5-IoLEum?usp=sharing|
+|Todos|https://drive.google.com/drive/folders/1iemgY0GgmGooprvD2xSzkYZbU7rZ3l15|
 ## --------------------------------------------------------------------------------------
 
 ## Evidencias del examen
