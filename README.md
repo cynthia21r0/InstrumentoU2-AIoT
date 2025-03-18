@@ -41,6 +41,13 @@
 |--|--|--|
 |Cynthia Janeth Granados Estrada|<img src="https://github.com/user-attachments/assets/2f9da4c6-a5b8-4074-8998-020a713dc825" width="200"/>|<img src="https://github.com/user-attachments/assets/7418381b-a340-42b3-afd3-78fa74eb3ace" width="200"/>|
 |Carol Guadalupe Rios Rios|<img src="https://github.com/user-attachments/assets/f11c78ae-a481-4131-b79d-3581642b1ddc" width="200"/>|<img src="https://github.com/user-attachments/assets/69934128-8bd9-40c3-af23-ce144fa16ba1" width="200"/>|
+## --------------------------------------------------------------------------------------
+
+## Consultas de la base de datos
+|Tabla|Consulta|
+|--|--|
+|Sensores|<img src="https://github.com/user-attachments/assets/45a5e262-25c8-4740-9119-9c676c848d78" width="350"/>|
+|Actuadores|<img src="https://github.com/user-attachments/assets/cae8457b-dd9d-4531-9682-d727369927bb" width="350"/>
 
 ## --------------------------------------------------------------------------------------
 ## Diagramas
